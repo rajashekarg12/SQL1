@@ -1,14 +1,3 @@
 Select * from City;
 
 
-
-
-
-
-
-
-
-
-
-
-
