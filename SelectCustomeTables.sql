@@ -1,5 +1,1 @@
 Select * from City;
-
-
-
-
